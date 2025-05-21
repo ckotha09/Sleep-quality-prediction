@@ -30,3 +30,8 @@ To predict the quality of sleep and presence of sleep disorders using lifestyle 
 - Stress level and physical activity are strong predictors of sleep quality.
 - Sleep disorders are more common in individuals with high stress and low physical activity.
 - Parallel processing doesn't always improve performance — especially on small datasets.
+
+
+## Acknowledgments
+
+This project was completed as part of the Health Data Science curriculum at Saint Louis University.
